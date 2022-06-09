@@ -1,0 +1,26 @@
+=== Controls ===
+Move Camera Up = W
+Move Camera Down = S
+Move Camera Right = A
+Move Camera Left = D
+Rotate Camera Left = Q
+Rotate Camera Right = E
+Center Camera on Colony = 
+=== Map Selection ===
+-Biomes: Cold / Temperate / Tropical / Desert / Boreal / Savannah / Tropical Dry Forest
+-Biome Difficulty: 1/2/3
+-Biome Loadout Difficulty: 1/2/3
+-Biome Loadout: 
+ Standard Expedition/ Advanced Expedition/ 
+ The Wild Naturalist/ The Dauntless/ The Industrious Crew
+ Natures Bounty/ Our Best and Brightest/ Lord Palmerstokes Expedition
+ Stalwart Defenders
+ 
+=== Factions ===
+-Republique Mecanique
+-Novorus Imperiya
+-Stahlmark
+
+================
+-Unassigned colonist are goint to haul things to the stockpile
+-Selecting area will show list of all possible actions on the selected area.
